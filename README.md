@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in Artificial Intelligence, Data Science, Automation, Web 3+, Blockchain Tech
-- 🌱 I’m currently learning backend deveploment with Javascript(Node Js) and Python(Fast API) and master newer frontend web frameworks like Svelte, 
+- 🌱 I’m currently learning backend deveploment with Javascript (Node Js) and Python (Fast API) and master newer frontend web frameworks like Svelte, 
 - 💞️ I’m looking to collaborate on new projects in area related to data science and web 3.0 in solving common issues we encounter day to day.
 
 <!---
